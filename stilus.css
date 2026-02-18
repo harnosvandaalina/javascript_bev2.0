@@ -1,0 +1,18 @@
+#adatbevitel{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+}
+
+#tevekenyseg{
+    padding: 5px 10px ;
+}
+
+#tev_label{
+    padding: 5px 10px;
+}
+
+#gomb{
+
+}
